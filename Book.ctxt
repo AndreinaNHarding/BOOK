@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ \r\n\r\n\ @author\ (Andreina\ Nunez\ A01011804)\r\n\ @version\ (date\ 1/19/2019)\r\n\ @asigment\ lab\ 2b\r\n
+comment1.params=theYearPublished\ theTitle\ theAuthorLastName\ theAuthorFirstName\ theWeightOfTheBook\ fictionMovie
+comment1.target=Book(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ boolean)
+comment1.text=\r\n\ The\ constructor\ of\ book\ objects\r\n\ @param\ theTitle\r\n\ @param\ theYearPublished\r\n\ @param\ TheAuthorLastName\r\n\ @param\ isFiction\ Whether\ the\ book\ is\ fiction\ or\ not\r\n
+numComments=2
